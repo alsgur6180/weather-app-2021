@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "weather app created by react native ( toy project )",
+    "githubUrl": "https://github.com/alsgur6180/weather-app-2021"
   }
 }
